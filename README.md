@@ -1,0 +1,2 @@
+# finaceviewer
+Projekt OOP
